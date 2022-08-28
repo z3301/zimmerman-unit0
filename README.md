@@ -5,7 +5,8 @@ August 28, 2022<br>
 
 ## Codepath Prework Assignment
 
-iOS Tip Calculator in Swift<br><br>
+iOS Tip Calculator in Swift.<br><br>
+Preview at [https://imgur.com/T1WcU0Z](https://imgur.com/T1WcU0Z).
 
 ### Not ready for deployment
 
